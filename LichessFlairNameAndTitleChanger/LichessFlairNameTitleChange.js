@@ -1,7 +1,7 @@
-// ==UserScript==
+﻿// ==UserScript==
 // @name         Lichess Dynamic Badge + Name + Flair (Final Stable)
 // @namespace    http://tampermonkey.net/
-// @version      28.4.2026
+// @version      29.0.0
 // @description  Remote-controlled Lichess UI driven by Supabase table data
 // @match        https://lichess.org/*
 // @updateURL    https://someoneofficial.github.io/LichessEdits/LichessFlairNameAndTitleChanger/LichessFlairNameTitleChange.js
@@ -322,4 +322,3 @@
 
     init();
 })();
-
