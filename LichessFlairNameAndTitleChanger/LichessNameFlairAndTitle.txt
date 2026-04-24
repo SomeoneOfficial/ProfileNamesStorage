@@ -2,5 +2,5 @@ LICHESS:
 Player: name, title, additional stuff next to name
 empty for no change of val
 Player1:AJisland, ASM, AJisland, https://media.tenor.com/bmxESZp93QYAAAAM/cute-staring-cat.gif,
-Player2:SJisland, GM, SJisland, https://media.tenor.com/bmxESZp93QYAAAAM/cute-staring-cat.gif,
-Player3:KKisland, GM, KKisland,
+Player2:SJisland, BM, SJisland, https://media1.tenor.com/m/Tce2yoJHW1MAAAAC/yay-henry.gif,
+Player3:KKisland, GM, KKisland, https://media.tenor.com/KMxrZ-A6ev4AAAAM/nice-smack.gif
