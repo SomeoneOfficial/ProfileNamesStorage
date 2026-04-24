@@ -1,9 +1,11 @@
 // ==UserScript==
 // @name         Lichess Dynamic Badge + Name + Flair (Final Stable)
 // @namespace    http://tampermonkey.net/
-// @version      27.5
+// @version      27.6
 // @description  Remote-controlled Lichess UI with fully safe parsing
 // @match        https://lichess.org/*
+// @updateURL    https://someoneofficial.github.io/LichessEdits/LichessFlairNameAndTitleChanger/LichessFlairNameTitleChange.js
+// @downloadURL  https://someoneofficial.github.io/LichessEdits/LichessFlairNameAndTitleChanger/LichessFlairNameTitleChange.js
 // @grant        GM_xmlhttpRequest
 // @connect      someoneofficial.github.io
 // @run-at       document-idle
@@ -13,7 +15,7 @@
     'use strict';
 
     const BASE_URL =
-        'https://someoneofficial.github.io/DatabaseStorage/LichessNameFlairAndTitle.txt';
+        'https://someoneofficial.github.io/LichessEdits/LichessFlairNameAndTitleChanger/LichessNameFlairAndTitle.txt';
 
     let PLAYERS = [];
 
