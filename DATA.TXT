@@ -1,6 +1,6 @@
 LICHESS:
 Player: name, title, additional stuff next to name
 empty for no change of val
-Player1:AJislandOfficial, ASM, 
+Player1:AJisland, ASM, Ajisland
 Player2:SJisland, GM, SJisland
 Player3:KKisland, GM, KKisland
