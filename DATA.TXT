@@ -1,6 +1,6 @@
 LICHESS:
 Player: name, title, additional stuff next to name
 empty for no change of val
-Player1:AJisland, ASM, AJisland
-Player2:SJisland, GM, SJisland
-Player3:KKisland, GM, KKisland
+Player1:AJisland, ASM, AJisland,https://avatars.githubusercontent.com/u/205118822?s=48&v=4
+Player2:SJisland, GM, SJisland,
+Player3:KKisland, GM, KKisland,
